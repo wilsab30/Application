@@ -47,18 +47,24 @@ During this year long education and internship program I am getting a comprehens
 (2012) [Frank, Zach & Co. Law Offices](http://fz-law.co.il/) - a law firm specializing in the tech industry.
 *Position: Attorney*
 
-* Drafting commercial agreements:  
- Shareholders, founders, asset purchases, share purchases, investments, loans, advertisers and publishers, employment;
+* Drafting commercial agreements:
+  <ul>
+    Shareholders, founders, asset purchases, share purchases, investments, loans, advertisers and publishers, employment;
+  </ul>
 * Drafting online legal content:  
- Mobile and web-based sites privacy policies & terms of use;
+  <ul>
+    Mobile and web-based sites privacy policies & terms of use;
+  </ul>
 * Performing small scale due diligences related to purchases of start-up companies.
 
 (2011) [Aeronautics Ltd.](http://www.aeronautics-sys.com/)
 *Positions: Team co-lead, executive assistant, Attorney.*
 
 * International tenders response team co-lead (PM essence of work).      
-* Drafting commercial agreements     
- (Such as: Logistic Services and Product Support, SOW, Commercial Proposals legal terms).      
+* Drafting commercial agreements:     
+  <ul>
+    Such as: Logistic Services and Product Support, SOW, Commercial Proposals legal terms.
+  </ul>      
 * VP Projects Executive Assistant     
 
 

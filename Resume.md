@@ -54,7 +54,6 @@ During this year long education and internship program I am getting a comprehens
 * Performing small scale due diligences related to purchases of start-up companies.
 
 (2011) [Aeronautics Ltd.](http://www.aeronautics-sys.com/)
-
 *Positions: Team co-leader, executive assistant, Attorney.*
 
 * International tenders response team co-lead.      

@@ -21,19 +21,19 @@ position: student and intern
 
 During this year long education and internship program I am getting a comprehensive set of skills of software development including:
 
-Computer Science Fundamentals:  
+1. Computer Science Fundamentals:  
 * High-level understanding of different Abstract Data Types;
 * Introduction to Big-O notation and efficiency trade offs;
 * Breaking down a problem, refactoring, debugging and optimizing;
 * Algorithmic thinking.
-Server, Network, and Hosting Environment.
-Data Modeling.
-Business Logic / "Middleware" / API Layer.
-User Interface:
+2. Server, Network, and Hosting Environment.
+3. Data Modeling.
+4. Business Logic / "Middleware" / API Layer.
+5. User Interface:
 * solid exposure to HTML5 / CSS
 * Use JavaScript as the language of interactive browser experience.
-User Experience.
-TDD.
+6. User Experience.
+7. TDD.
 
 (2013) [Harel Insurance & Finance](https://www.harel-group.co.il/Pages/default.aspx)
 Position: Attorney

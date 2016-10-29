@@ -1,58 +1,74 @@
 YAEL FINE
 ==============   
-Contact details available at ADA Developers Academy application account.
+yael.fine@yahoo.com
 
-Summary of qualifications 
+resume.limit_to_one_sentence
 -----------------------------
+After exploring various business and law aspects of the tech industry, I am now passionately looking forward to pursue a career in software development and find a way to make use of all my prior knowledge within this exciting field.
 
+self.summary_of_qualifications
+-----------------------------
+* (Current:) Software developer: 1 year of comprehensive training and internship;
 * Attorney: 3 + 1 (internship) years of experience in various business oriented fields of practice;
 * Project management: Multiple successes in delivering large complex projects with short deadlines as the team leader;
-* Executive assistance: Experienced in cooperating with multiple functions and independently supervise the execution of projects;
 * Personal skills: Fast learner, punctual, attentive to details, good interpersonal communication skills, management and negotiation skills, Team player as well as independent, exceptional administrative capabilities.
 
 
-### Professional Experience ###
+### self.professional_experience && technical skills ###
 
-(2013) [Harel Insurance & Finance](https://www.harel-group.co.il/Pages/default.aspx) - Long term savings division  
+(2016) [Ada Developers Academy](http://adadevelopersacademy.org/)
+position: student and intern
+
+During this year long education and internship program I am getting a comprehensive set of skills of software development including:
+*Computer Science Fundamentals*:  
+* High-level understanding of different Abstract Data Types;
+* Introduction to Big-O notation and efficiency trade offs;
+* Breaking down a problem, refactoring, debugging and optimizing;
+* Algorithmic thinking.
+*Server, Network, and Hosting Environment.*
+*Data Modeling.*
+*Business Logic / "Middleware" / API Layer.*
+*User Interface:*
+* solid exposure to HTML5 / CSS
+* Use JavaScript as the language of interactive browser experience.
+*User Experience.*
+*TDD.*
+
+(2013) [Harel Insurance & Finance](https://www.harel-group.co.il/Pages/default.aspx)
 Position: Attorney
 
- * Internal (provident and study funds department) and external Legal advisory
- * Legal secretarial work for boards of directors
+ * Legal secretarial work for subsidiary companies' boards of directors
  * Drafting commercial agreements with employers
  * Representative at the Israeli Insurance Association
- * POC to lawyers appointed to out sourced legal claims       
 
-
-(2012) [Frank, Zach & Co. Law Offices](http://fz-law.co.il/) - specializing in the high tech industry
-
+(2012) [Frank, Zach & Co. Law Offices](http://fz-law.co.il/) - a law firm specializing in the tech industry.
 Position: Attorney
 
-* Drafting commercial agreements  
- [Shareholders, founders, asset purchases, share purchases, investments, loans, advertisers and publishers, employment]
-* Drafting online legal content  
- [Mobile and web-based sites privacy policies & terms of use]
-* Performing due diligence related to purchases of start-up companies
+* Drafting commercial agreements:  
+ Shareholders, founders, asset purchases, share purchases, investments, loans, advertisers and publishers, employment;
+* Drafting online legal content:  
+ Mobile and web-based sites privacy policies & terms of use;
+* Performing small scale due diligences related to purchases of start-up companies.
 
 (2011) [Aeronautics Ltd.](http://www.aeronautics-sys.com/)
 
-Positions: Team leader, executive assistant, Attorney. 
+Positions: Team co-leader, executive assistant, Attorney.
 
-* International tenders response team manager    
- Teams are comprised of representatives of each dept. (marketing, engineering, finance, projects, production, legal etc.) and the role of a team leader is of a project management nature.     
+* International tenders response team co-lead.      
 * Drafting commercial agreements     
- Relating to: Sales/leasing deals, Logistic Services and Product Support, SOW, agents/Consultants, Sub-Contractors, Commercial Proposals legal terms.      
-* Executive Assistant     
- Providing comprehensive executive assistance to VP Projects & projects BisDev manager.
+ (Such as: Logistic Services and Product Support, SOW, Commercial Proposals legal terms).      
+* VP Projects Executive Assistant     
 
 
-### Education and Certifications ###
+### self.education_and_certifications ###
 
+ (2016) [Ada Developers Academy](http://adadevelopersacademy.org/) ï¿½ software developer
  (2010) licensed to practice law in Israel       
- (2005-2009) [University of Haifa](http://www.haifa.ac.il/index.php/en/home-eng) – Faculty of Law; LLB – law and technology        
+ (2005-2009) [University of Haifa](http://www.haifa.ac.il/index.php/en/home-eng) ï¿½ Faculty of Law; LLB ï¿½ law and technology        
  (Fall 2007) [University of Connecticut](http://uconn.edu/) - IP courses and clinic practice
 
 
+### self.languages ###
 
-### Languages ###
-Hebrew – Mother tongue	         
-English – Fluent (reading, writing, talking)
+Hebrew ï¿½ Mother tongue	         
+English ï¿½ Fluent (reading, writing, talking)

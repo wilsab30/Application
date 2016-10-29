@@ -17,7 +17,7 @@ self.summary_of_qualifications
 ### self.professional_experience && technical skills ###
 
 (2016) [Ada Developers Academy](http://adadevelopersacademy.org/)
-position: student and intern
+*position: student/intern*
 
 During this year long education and internship program I am getting a comprehensive set of skills of software development including:
 
@@ -38,14 +38,14 @@ During this year long education and internship program I am getting a comprehens
 </ul>
 
 (2013) [Harel Insurance & Finance](https://www.harel-group.co.il/Pages/default.aspx)
-Position: Attorney
+*Position: Attorney*
 
  * Legal secretarial work for subsidiary companies' boards of directors
  * Drafting commercial agreements with employers
  * Representative at the Israeli Insurance Association
 
 (2012) [Frank, Zach & Co. Law Offices](http://fz-law.co.il/) - a law firm specializing in the tech industry.
-Position: Attorney
+*Position: Attorney*
 
 * Drafting commercial agreements:  
  Shareholders, founders, asset purchases, share purchases, investments, loans, advertisers and publishers, employment;
@@ -55,7 +55,7 @@ Position: Attorney
 
 (2011) [Aeronautics Ltd.](http://www.aeronautics-sys.com/)
 
-Positions: Team co-leader, executive assistant, Attorney.
+*Positions: Team co-leader, executive assistant, Attorney.*
 
 * International tenders response team co-lead.      
 * Drafting commercial agreements     

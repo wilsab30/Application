@@ -24,7 +24,7 @@ During this year long education and internship program I am getting a comprehens
 <ul>
   <li>Computer Science Fundamentals: </li>  
   <ul>
-  High-level understanding of different Abstract Data Types, Introduction to Big-O notation and efficiency trade offs, Breaking down a problem, refactoring, debugging and optimizing, Algorithmic thinking.
+  High-level understanding of different abstract data types, Introduction to Big-O notation and efficiency trade offs, Breaking down a problem, refactoring, debugging and optimizing, Algorithmic thinking.
   </ul>
   <li>Server, Network, and Hosting Environment;</li>
   <li>Data Modeling;</li>

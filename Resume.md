@@ -64,7 +64,7 @@ During this year long education and internship program I am getting a comprehens
 
 ### self.education_and_certifications ###
 
- (2016) [Ada Developers Academy](http://adadevelopersacademy.org/); software developer.
+ (2016) [Ada Developers Academy](http://adadevelopersacademy.org/); software developer.</br>
  (2010) licensed to practice law in Israel.       
  (2005-2009) [University of Haifa](http://www.haifa.ac.il/index.php/en/home-eng); Faculty of Law; LLB in 'law and technology'.        
  (Fall 2007) [University of Connecticut](http://uconn.edu/); IP courses and clinic practice.

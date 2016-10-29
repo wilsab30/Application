@@ -22,16 +22,18 @@ position: student and intern
 During this year long education and internship program I am getting a comprehensive set of skills of software development including:
 
 <ul>
-  <ul>Computer Science Fundamentals:  
-    * High-level understanding of different Abstract Data Types;
-    * Introduction to Big-O notation and efficiency trade offs;
-    * Breaking down a problem, refactoring, debugging and optimizing;
-    * Algorithmic thinking.
+  <li>Computer Science Fundamentals: </li>  
+  <ul>
+  * High-level understanding of different Abstract Data Types;
+  * Introduction to Big-O notation and efficiency trade offs;
+  * Breaking down a problem, refactoring, debugging and optimizing;
+  * Algorithmic thinking.
   </ul>
   <li>Server, Network, and Hosting Environment;</li>
   <li>Data Modeling;</li>
   <li>Business Logic / "Middleware" / API Layer;</li>
-  <ul>User Interface:
+  <li>User Interface:</li>
+  <ul>
     * solid exposure to HTML5 / CSS;
     * Use JavaScript as the language of interactive browser experience;
   </ul>

@@ -31,7 +31,7 @@ During this year long education and internship program I am getting a comprehens
   <li>Business Logic / "Middleware" / API Layer;</li>
   <li>User Interface:</li>
   <ul>
-    Solid exposure to HTML5 / CSS, Use JavaScript as the language of interactive browser experience;
+    Solid exposure to HTML5 / CSS, Use JavaScript as the language of interactive browser experience.
   </ul>
   <li>User Experience;</li>
   <li>TDD.</li>
@@ -49,11 +49,11 @@ During this year long education and internship program I am getting a comprehens
 
 * Drafting commercial agreements:
   <ul>
-    Shareholders, founders, asset purchases, share purchases, investments, loans, advertisers and publishers, employment;
+    Shareholders, founders, asset purchases, share purchases, investments, loans, advertisers and publishers, employment.
   </ul>
 * Drafting online legal content:  
   <ul>
-    Mobile and web-based sites privacy policies & terms of use;
+    Mobile and web-based sites privacy policies & terms of use.
   </ul>
 * Performing small scale due diligences related to purchases of start-up companies.
 

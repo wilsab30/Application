@@ -24,18 +24,14 @@ During this year long education and internship program I am getting a comprehens
 <ul>
   <li>Computer Science Fundamentals: </li>  
   <ul>
-  * High-level understanding of different Abstract Data Types;
-  * Introduction to Big-O notation and efficiency trade offs;
-  * Breaking down a problem, refactoring, debugging and optimizing;
-  * Algorithmic thinking.
+  High-level understanding of different Abstract Data Types, Introduction to Big-O notation and efficiency trade offs, Breaking down a problem, refactoring, debugging and optimizing, Algorithmic thinking.
   </ul>
   <li>Server, Network, and Hosting Environment;</li>
   <li>Data Modeling;</li>
   <li>Business Logic / "Middleware" / API Layer;</li>
   <li>User Interface:</li>
   <ul>
-    * solid exposure to HTML5 / CSS;
-    * Use JavaScript as the language of interactive browser experience;
+    Solid exposure to HTML5 / CSS, Use JavaScript as the language of interactive browser experience;
   </ul>
   <li>User Experience;</li>
   <li>TDD.</li>

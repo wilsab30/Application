@@ -26,19 +26,13 @@ During this year long education and internship program I am getting a comprehens
 * Introduction to Big-O notation and efficiency trade offs;
 * Breaking down a problem, refactoring, debugging and optimizing;
 * Algorithmic thinking.
-
 *Server, Network, and Hosting Environment.*
-
 *Data Modeling.*
-
 *Business Logic / "Middleware" / API Layer.*
-
 *User Interface:*
 * solid exposure to HTML5 / CSS
 * Use JavaScript as the language of interactive browser experience.
-
 *User Experience.*
-
 *TDD.*
 
 (2013) [Harel Insurance & Finance](https://www.harel-group.co.il/Pages/default.aspx)

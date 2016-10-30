@@ -22,7 +22,7 @@ Bio
 <ul>
   def before_and_after_coding_hours
   <ul>
-    I am a mother of two young, creative, happy, energetic little ones, who make me happy, challenge and inspire me in every aspect of my life. sharing my life with them is a constant loving reminder for me to never stop being playful, never stop asking questions and exploring, and that hands on experience is the best (and most fun!) way to learn. I also enjoy cooking, yoga, and exploring new places 🎒.
+    I am a mother of two young, creative, happy, energetic little ones, who make me happy, challenge and inspire me in every aspect of my life. sharing my life with them is a constant loving reminder for me to never stop being playful, never stop asking questions and exploring, and that hands on experience is the best (and most fun!) way to learn. I also love dogs, enjoy experimental cooking (i.e. following my culinary instincts instead of following recipes), yoga, and exploring new places 🎒.
   </ul>
   end
 </ul>

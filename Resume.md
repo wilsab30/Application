@@ -65,7 +65,7 @@ During this year long education and internship program I am getting a comprehens
   <ul>
     Such as: Logistic Services and Product Support, SOW, Commercial Proposals legal terms.
   </ul>      
-* VP Projects Executive Assistant     
+VP Projects Executive Assistant     
 
 
 ### self.education_and_certifications ###

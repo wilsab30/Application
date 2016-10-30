@@ -2,7 +2,7 @@ YAEL FINE
 ==============   
 yael.fine@yahoo.com
 
-resume.limit_to_one_sentence
+resume.in_one_sentence
 -----------------------------
 After exploring various business and law aspects of the tech industry, I am now passionately looking forward to pursue a career in software development and find a way to make use of all my prior knowledge within this exciting field.
 

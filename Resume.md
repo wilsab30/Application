@@ -63,8 +63,7 @@ During this year long education and internship program I am getting a comprehens
 * International tenders response team co-lead (PM essence of work).      
 * Drafting commercial agreements:     
   <ul>
-    Such as: Logistic Services and Product Support, SOW, Commercial Proposals legal terms.
-  </ul>      
+    Such as: Logistic Services and Product Support, SOW, Commercial Proposals legal terms.</ul>      
 * VP Projects Executive Assistant     
 
 

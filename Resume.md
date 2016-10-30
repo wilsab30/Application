@@ -64,7 +64,7 @@ During this year long education and internship program I am getting a comprehens
 * Drafting commercial agreements:     
   <ul>
     Such as: Logistic Services and Product Support, SOW, Commercial Proposals legal terms.
-  </ul>* VP Projects Executive Assistant     
+  </ul> <li>VP Projects Executive Assistant</li>     
 
 
 ### self.education_and_certifications ###

@@ -1,7 +1,7 @@
 YAEL FINE
 ==============  
 
-(class) Bio
+Bio
 
 <ul>
   def before_coding
@@ -32,5 +32,3 @@ YAEL FINE
     <ul>Well.. that's on you. and I'm waiting to hear it: yael.fine@yahoo.com </ul>
   end
 </ul>
-
-end

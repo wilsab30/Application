@@ -8,14 +8,14 @@ def before_coding
 end
 
 def while_coding
-  <ul>I loose track of time. seriously. I still can't believe how lucky I am to have found this chocolate-golden ticket to belong to those who do what they love and love what they do. I feel delightfully challenged when I do back-end design and relaxingly pleased when I manage to design an engaging front end experience for different kinds of users.</ul>
+  <p>I loose track of time. seriously. I still can't believe how lucky I am to have found this chocolate-golden ticket to belong to those who do what they love and love what they do. I feel delightfully challenged when I do back-end design and relaxingly pleased when I manage to design an engaging front end experience for different kinds of users.</p>
 end
 
 def before_and_after_coding_hours
-  <ul>I am a mother of two young, creative, happy, energetic little ones, who make me happy, challenge and inspire me in every aspect of my life. sharing my life with them is a constant loving reminder for me to never stop being playful, never stop asking questions and exploring, and that hands on experience is the best (and most fun!) way to learn. I also enjoy cooking, yoga, and exploring new places 🎒.</ul>
+  <p>I am a mother of two young, creative, happy, energetic little ones, who make me happy, challenge and inspire me in every aspect of my life. sharing my life with them is a constant loving reminder for me to never stop being playful, never stop asking questions and exploring, and that hands on experience is the best (and most fun!) way to learn. I also enjoy cooking, yoga, and exploring new places 🎒.</p>
 end
 
 def conclusion
-  <ul>Well.. that's on you. and I'm waiting to hear it:
-    yael.fine@yahoo.com</ul>
+  <p>Well.. that's on you. and I'm waiting to hear it:
+    yael.fine@yahoo.com</p>
 end

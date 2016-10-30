@@ -13,15 +13,15 @@ def while_coding </br>
   </ul>
 end
 
-def before_and_after_coding_hours</br>
+def before_and_after_coding_hours
   <ul>
-    I am a mother of two young, creative, happy, energetic little ones, who make me happy, challenge and inspire me in every aspect of my life. sharing my life with them is a constant loving reminder for me to never stop being playful, never stop asking questions and exploring, and that hands on experience is the best (and most fun!) way to learn. I also enjoy cooking, yoga, and exploring new places 🎒.</br>
+    I am a mother of two young, creative, happy, energetic little ones, who make me happy, challenge and inspire me in every aspect of my life. sharing my life with them is a constant loving reminder for me to never stop being playful, never stop asking questions and exploring, and that hands on experience is the best (and most fun!) way to learn. I also enjoy cooking, yoga, and exploring new places 🎒.
     </ul>
 end
 
-def conclusion</br>
+def conclusion
   <ul>
     Well.. that's on you. and I'm waiting to hear it:
-    yael.fine@yahoo.com</br>
+    yael.fine@yahoo.com
   </ul>
 end

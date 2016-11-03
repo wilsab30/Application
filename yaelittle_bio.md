@@ -6,7 +6,7 @@ Bio
 <ul>
   def before_coding
   <ul>
-    I have been exploring various fields of business and law from inside and around the tech industry. the deeper and closer I got into and to tech the more I liked it. until I decided to make my moves: I moved to the US, and moved on from a career in law to pursue a career in software development.
+    I have been exploring various fields of business and law from inside and around the tech industry. the deeper and closer I got into and to tech the more I liked it. So I moved to the US, and moved on from a career in law to pursue a career in software development.
   </ul>
   end
 </ul>
@@ -27,8 +27,4 @@ Bio
   end
 </ul>
 
-<ul>
-  def conclusion
-    <ul>Well.. that's on you. and I'm waiting to hear it: yael.fine@yahoo.com </ul>
-  end
-</ul>
+

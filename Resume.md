@@ -19,6 +19,16 @@ self.summary_of_qualifications
 (2016) [Ada Developers Academy](http://adadevelopersacademy.org/)
 *position: student/intern*
 
+##### Example Projects: #####
+
+[Recipe Search Website](https://enigmatic-temple-53276.herokuapp.com/)
+(Using external API source)
+
+[E-Commerce Website](https://besties-app.herokuapp.com/)
+(User login via github || make user account || use as guest) 
+
+##### Program Description: #####
+
 During this year long education and internship program I am getting a comprehensive set of skills of software development including:
 
 <ul>

@@ -23,7 +23,6 @@ self.summary_of_qualifications
 
 [Recipe Search Website](https://enigmatic-temple-53276.herokuapp.com/)
 (Using external API source)
-
 [E-Commerce Website](https://besties-app.herokuapp.com/)
 (User login via github || make user account || use as guest) 
 

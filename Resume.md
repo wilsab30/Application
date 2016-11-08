@@ -25,6 +25,8 @@ self.summary_of_qualifications
 (Using external API source) <br>
 [E-Commerce Website](https://besties-app.herokuapp.com/)
 (User login via github || make user account || use as guest) 
+[Farmer's Markets Search website](https://yaeleah.herokuapp.com/)
+(User login || use as guest) 
 
 ##### Program Description: #####
 
